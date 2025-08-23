@@ -1,5 +1,7 @@
 # How to build (FreeRTOS)
 
+**Note that building the FreeRTOS side sample was tested with GCC9.2. A newer GCC (>= GCC10.x) version may cause an unexpected error during program execution.**
+
 ## 1. Create a dedicated directory
 
 ```
