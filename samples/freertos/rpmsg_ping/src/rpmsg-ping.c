@@ -1,3 +1,11 @@
+/*
+ * SPDX-License-Identifier: BSD-3-Clause
+ *
+ * Copyright (c) 2014, Mentor Graphics Corporation. All rights reserved.
+ * Copyright (c) 2015 - 2016 Xilinx, Inc. All rights reserved.
+ * Copyright (c) 2016 Freescale Semiconductor, Inc. All rights reserved
+ */
+
 /* This is a sample demonstration application that showcases usage of rpmsg 
 This application is meant to run on the remote CPU running baremetal code. 
 This application echoes back data that was sent to it by the master core. */
